@@ -5,10 +5,10 @@ This is the open-source code for our VarDial 2020 submission to the RDI shared t
 The task was the dialect classification between Romanian and Moldavian on news extracts and tweets. Our solution focuses on comparing different transformer-based models, 3 of them multilingual and 2 of them pre-trained on the Romanian language.
 
 The models that we experimented with are:
-    - mBERT [1]
-    - XLM [2]
-    - XLM-R [3]
-    - Cased and Uncased Romanian BERT [4]
+- mBERT [1]
+- XLM [2]
+- XLM-R [3]
+- Cased and Uncased Romanian BERT [4]
     
 The data that we used is the MOROCO corpus [5], available at https://github.com/butnaruandrei/MOROCO.
 
