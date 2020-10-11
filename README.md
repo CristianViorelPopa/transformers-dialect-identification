@@ -32,7 +32,11 @@ At the moment the paper has not yet been published, so there is no link that we 
 ## References
 
 [1] Jacob Devlin, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova. 2019. _BERT: Pre-training of deep bidirectional transformers for language understanding_. In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers), pages 4171–4186, Minneapolis, Minnesota, June. Association for Computational Linguistics.
+
 [2] Guillaume Lample and Alexis Conneau. 2019. _Cross-lingual Language Model Pretraining_. Advances in Neural Information Processing Systems (NeurIPS).
+
 [3] Alexis Conneau, Kartikay Khandelwal, Naman Goyal, Vishrav Chaudhary, Guillaume Wenzek, Francisco Guzm ́an, Edouard Grave, Myle Ott, Luke Zettlemoyer, and Veselin Stoyanov. 2019. _Unsupervised Cross-lingual Representation Learning at Scale_. arXiv preprint arXiv:1911.02116.
+
 [4] Stefan Daniel Dumitrescu, Andrei-Marius Avram, and Sampo Pyysalo. 2020. _The birth of Romanian BERT_.
+
 [5] Andrei Butnaru and Radu Tudor Ionescu. 2019. _MOROCO: The Moldavian and Romanian dialectal corpus_. In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, pages 688–698, Florence, Italy, July. Association for Computational Linguistics.
