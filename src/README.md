@@ -1,6 +1,6 @@
 # Source Code
 
-This directory contains the python source code we used for the work unrelated to transformer fine-tuning.
+This directory contains the Python source code we used for the work unrelated to the transformer fine-tuning.
 
 ## Structure
 
@@ -11,13 +11,4 @@ The source code is partitioned in the following directories:
 - `attention-analysis` - a slightly modified version of the codebase available at https://github.com/clarkkev/attention-analysis, to fit our needs
 - `paper`- scripts with a very specific purpose, used to create the figures in the paper
 
-Each of the directories contain their own README to better explain the code and how to make use of it, except for the one pertaining to attention analysis, as we left the original README unchanged. Please cite their original work if you find it useful:
-
-```
-@inproceedings{clark2019what,
-  title = {What Does BERT Look At? An Analysis of BERT's Attention},
-  author = {Kevin Clark and Urvashi Khandelwal and Omer Levy and Christopher D. Manning},
-  booktitle = {BlackBoxNLP@ACL},
-  year = {2019}
-}
-```
+Each of the directories contain their own README to better explain the code and how to make use of it, except for the one pertaining to attention analysis, where we left a link to the original repo. Please cite their original work if you find it useful.

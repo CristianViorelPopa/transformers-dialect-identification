@@ -1,6 +1,6 @@
 # Notebooks
 
-All the notebooks were used to train the different models studied in the paper. You should be able to run them cell by cell (with some obvious modifications, such as the input files) to train the models as we did. If something breaks, note that we used the huggingface `transformers` library on version 2.11.0, so we cannot guarantee for future version. They have the same exact structure, differing only in the type of pretrained model is used.
+All the notebooks were used to train the different models studied in the paper. You should be able to run them cell by cell (with some obvious modifications, such as the input files) to train the models as we did. If something breaks, note that we used the [huggingface transformers](https://github.com/huggingface/transformers) library on version 2.11.0, so we cannot guarantee for future version. They have the same exact structure, differing only in the type of pretrained model.
 
 The notebooks are modified versions of the one developed by Chris McCormick [1].
 
