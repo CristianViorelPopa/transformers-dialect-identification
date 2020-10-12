@@ -1,6 +1,6 @@
-# VarDial 2020 Submission - Team Anumiți
+# Multilingual and Monolingual Transformers for Dialect Identification
 
-This is the open-source code for our VarDial 2020 submission to the RDI shared task: Cristian Popa, Vlad Stefanescu. 2020. _Applying Multilingual and Monolingual Transformer-Based Models forDialect Identification_
+This is the open-source code for our VarDial 2020 submission, on behalf of team Anumiți, to the RDI shared task: Cristian Popa, Vlad Stefanescu. 2020. _Applying Multilingual and Monolingual Transformer-Based Models for Dialect Identification_
 
 The task was the dialect classification between Romanian and Moldavian on news extracts and tweets. Our solution focuses on comparing different transformer-based models, 3 of them multilingual and 2 of them pre-trained on the Romanian language.
 
